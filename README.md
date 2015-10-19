@@ -5,12 +5,12 @@ Draw on your new understanding of working with media by building [YouTube's vide
 
 ##### Skills Developed
 <ul>
-	<li>Embed a functioning video element into a web page</li>
-	<li>Practice techniques regarding the embedding and display of images (background-image and img tag)</li>
-	<li>Use and application of CSS reset style sheets - Eric Meyer</li>
-	<li>Further exploration of HTML and CSS capabilities</li>
-	<li>Experiment with different ways of positioning content</li>
-	<li>Attention to detail - attempt to create a pixel perfect design replica</li>
+	<li>Embed a functioning video element into a web page.</li>
+	<li>Practice techniques regarding the embedding and display of images (background-image and img tag).</li>
+	<li>Use and application of CSS reset style sheets - Eric Meyer.</li>
+	<li>Further exploration of HTML and CSS capabilities.</li>
+	<li>Experiment with different ways of positioning content.</li>
+	<li>Attention to detail - attempt to create a pixel perfect design replica.</li>
 </ul>
 
 ##### Live Preview
